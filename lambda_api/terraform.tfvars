@@ -1,0 +1,2 @@
+profile="YOUR_AWS_CONFIGURE_PROFILE"
+region="AWS_REGION"
