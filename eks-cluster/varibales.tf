@@ -6,8 +6,8 @@ variable "VpcCIDR" {
   default = "192.168.0.0/16"
 }
 variable "aws_profile" {
-  default = "sh-stage"
+  default = "AWS_PROFILE"
 }
 variable "aws_region" {
-  default = "us-east-1"
+  default = "AWS_REGION"
 }
